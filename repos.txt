@@ -1,6 +1,6 @@
+dannyrappleyea/notes
 dannyrappleyea/interests
 dannyrappleyea/cocktails
-dannyrappleyea/products
 digitalreplica/git-notes
 digitalreplica/git-knowledge
 digitalreplica/hacking
