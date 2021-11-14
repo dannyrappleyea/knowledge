@@ -1,6 +1,7 @@
 {
  "tags": {
   "dannyrappleyea": [
+   "dannyrappleyea/notes/README.md",
    "dannyrappleyea/interests/README.md",
    "dannyrappleyea/interests/aerial_silks.md",
    "dannyrappleyea/interests/anatomy.md",
@@ -38,9 +39,24 @@
    "dannyrappleyea/cocktails/palmetto.md",
    "dannyrappleyea/cocktails/peanut_butter_cup.md",
    "dannyrappleyea/cocktails/tokyo_daiquiri.md",
-   "dannyrappleyea/cocktails/white_russian.md",
-   "dannyrappleyea/products/README.md",
-   "dannyrappleyea/products/technology/apple-tv.md"
+   "dannyrappleyea/cocktails/white_russian.md"
+  ],
+  "notes": [
+   "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
+   "dannyrappleyea/cocktails/notes/sour_cocktails.md",
+   "digitalreplica/git-notes/README.md",
+   "digitalreplica/git-notes/advanced-topics.md"
+  ],
+  "readme": [
+   "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/interests/README.md",
+   "dannyrappleyea/cocktails/README.md",
+   "digitalreplica/git-notes/README.md",
+   "digitalreplica/git-knowledge/README.md",
+   "digitalreplica/hacking/README.md",
+   "digitalreplica/single-member-llc/README.md",
+   "digitalreplica/technology/README.md"
   ],
   "interests": [
    "dannyrappleyea/interests/README.md",
@@ -65,16 +81,6 @@
    "dannyrappleyea/interests/tv-shows.md",
    "dannyrappleyea/interests/yoga-pranayama.md",
    "dannyrappleyea/interests/yoga.md"
-  ],
-  "readme": [
-   "dannyrappleyea/interests/README.md",
-   "dannyrappleyea/cocktails/README.md",
-   "dannyrappleyea/products/README.md",
-   "digitalreplica/git-notes/README.md",
-   "digitalreplica/git-knowledge/README.md",
-   "digitalreplica/hacking/README.md",
-   "digitalreplica/single-member-llc/README.md",
-   "digitalreplica/technology/README.md"
   ],
   "aerial_silks": [
    "dannyrappleyea/interests/aerial_silks.md"
@@ -155,8 +161,7 @@
    "dannyrappleyea/interests/tea.md"
   ],
   "tv": [
-   "dannyrappleyea/interests/tv-shows.md",
-   "dannyrappleyea/products/technology/apple-tv.md"
+   "dannyrappleyea/interests/tv-shows.md"
   ],
   "shows": [
    "dannyrappleyea/interests/tv-shows.md"
@@ -195,12 +200,6 @@
   "manhattan": [
    "dannyrappleyea/cocktails/manhattan.md"
   ],
-  "notes": [
-   "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
-   "dannyrappleyea/cocktails/notes/sour_cocktails.md",
-   "digitalreplica/git-notes/README.md",
-   "digitalreplica/git-notes/advanced-topics.md"
-  ],
   "inexpensive_liquor_options": [
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md"
   ],
@@ -218,43 +217,6 @@
   ],
   "white_russian": [
    "dannyrappleyea/cocktails/white_russian.md"
-  ],
-  "products": [
-   "dannyrappleyea/products/README.md",
-   "dannyrappleyea/products/technology/apple-tv.md"
-  ],
-  "technology": [
-   "dannyrappleyea/products/technology/apple-tv.md",
-   "digitalreplica/technology/README.md",
-   "digitalreplica/technology/ai.md",
-   "digitalreplica/technology/anaconda.md",
-   "digitalreplica/technology/angular.md",
-   "digitalreplica/technology/atom.md",
-   "digitalreplica/technology/aws.md",
-   "digitalreplica/technology/bash.md",
-   "digitalreplica/technology/cucumber.md",
-   "digitalreplica/technology/curl.md",
-   "digitalreplica/technology/firefox.md",
-   "digitalreplica/technology/git.md",
-   "digitalreplica/technology/github.md",
-   "digitalreplica/technology/graphql.md",
-   "digitalreplica/technology/http.md",
-   "digitalreplica/technology/jq.md",
-   "digitalreplica/technology/linux.md",
-   "digitalreplica/technology/macos.md",
-   "digitalreplica/technology/markdown.md",
-   "digitalreplica/technology/node_js.md",
-   "digitalreplica/technology/openwrt.md",
-   "digitalreplica/technology/python.md",
-   "digitalreplica/technology/raspberry_pi.md",
-   "digitalreplica/technology/redis.md",
-   "digitalreplica/technology/unicode.md",
-   "digitalreplica/technology/uuid.md",
-   "digitalreplica/technology/webhooks.md",
-   "digitalreplica/technology/zsh.md"
-  ],
-  "apple": [
-   "dannyrappleyea/products/technology/apple-tv.md"
   ],
   "digitalreplica": [
    "digitalreplica/git-notes/README.md",
@@ -583,6 +545,35 @@
   "llc": [
    "digitalreplica/single-member-llc/README.md"
   ],
+  "technology": [
+   "digitalreplica/technology/README.md",
+   "digitalreplica/technology/ai.md",
+   "digitalreplica/technology/anaconda.md",
+   "digitalreplica/technology/angular.md",
+   "digitalreplica/technology/atom.md",
+   "digitalreplica/technology/aws.md",
+   "digitalreplica/technology/bash.md",
+   "digitalreplica/technology/cucumber.md",
+   "digitalreplica/technology/curl.md",
+   "digitalreplica/technology/firefox.md",
+   "digitalreplica/technology/git.md",
+   "digitalreplica/technology/github.md",
+   "digitalreplica/technology/graphql.md",
+   "digitalreplica/technology/http.md",
+   "digitalreplica/technology/jq.md",
+   "digitalreplica/technology/linux.md",
+   "digitalreplica/technology/macos.md",
+   "digitalreplica/technology/markdown.md",
+   "digitalreplica/technology/node_js.md",
+   "digitalreplica/technology/openwrt.md",
+   "digitalreplica/technology/python.md",
+   "digitalreplica/technology/raspberry_pi.md",
+   "digitalreplica/technology/redis.md",
+   "digitalreplica/technology/unicode.md",
+   "digitalreplica/technology/uuid.md",
+   "digitalreplica/technology/webhooks.md",
+   "digitalreplica/technology/zsh.md"
+  ],
   "ai": [
    "digitalreplica/technology/ai.md"
   ],
@@ -645,6 +636,13 @@
   ]
  },
  "files": {
+  "dannyrappleyea/notes/README.md": {
+   "name": "README.md",
+   "path": "README.md",
+   "size": 74,
+   "html_url": "https://github.com/dannyrappleyea/notes/blob/main/README.md",
+   "repo": "dannyrappleyea/notes"
+  },
   "dannyrappleyea/interests/README.md": {
    "name": "README.md",
    "path": "README.md",
@@ -910,20 +908,6 @@
    "size": 551,
    "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/white_russian.md",
    "repo": "dannyrappleyea/cocktails"
-  },
-  "dannyrappleyea/products/README.md": {
-   "name": "README.md",
-   "path": "README.md",
-   "size": 38,
-   "html_url": "https://github.com/dannyrappleyea/products/blob/main/README.md",
-   "repo": "dannyrappleyea/products"
-  },
-  "dannyrappleyea/products/technology/apple-tv.md": {
-   "name": "apple-tv.md",
-   "path": "technology/apple-tv.md",
-   "size": 520,
-   "html_url": "https://github.com/dannyrappleyea/products/blob/main/technology/apple-tv.md",
-   "repo": "dannyrappleyea/products"
   },
   "digitalreplica/git-notes/README.md": {
    "name": "README.md",
