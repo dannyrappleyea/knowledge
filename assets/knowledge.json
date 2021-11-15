@@ -2,6 +2,7 @@
  "tags": {
   "dannyrappleyea": [
    "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/notes/products-apple-tv.md",
    "dannyrappleyea/interests/README.md",
    "dannyrappleyea/interests/aerial_silks.md",
    "dannyrappleyea/interests/anatomy.md",
@@ -34,6 +35,7 @@
    "dannyrappleyea/cocktails/last_word.md",
    "dannyrappleyea/cocktails/lemon_drop_martini.md",
    "dannyrappleyea/cocktails/manhattan.md",
+   "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "dannyrappleyea/cocktails/palmetto.md",
@@ -43,6 +45,8 @@
   ],
   "notes": [
    "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/notes/products-apple-tv.md",
+   "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "digitalreplica/git-notes/README.md",
@@ -57,6 +61,16 @@
    "digitalreplica/hacking/README.md",
    "digitalreplica/single-member-llc/README.md",
    "digitalreplica/technology/README.md"
+  ],
+  "products": [
+   "dannyrappleyea/notes/products-apple-tv.md"
+  ],
+  "apple": [
+   "dannyrappleyea/notes/products-apple-tv.md"
+  ],
+  "tv": [
+   "dannyrappleyea/notes/products-apple-tv.md",
+   "dannyrappleyea/interests/tv-shows.md"
   ],
   "interests": [
    "dannyrappleyea/interests/README.md",
@@ -106,6 +120,7 @@
    "dannyrappleyea/cocktails/last_word.md",
    "dannyrappleyea/cocktails/lemon_drop_martini.md",
    "dannyrappleyea/cocktails/manhattan.md",
+   "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "dannyrappleyea/cocktails/palmetto.md",
@@ -160,9 +175,6 @@
   "tea": [
    "dannyrappleyea/interests/tea.md"
   ],
-  "tv": [
-   "dannyrappleyea/interests/tv-shows.md"
-  ],
   "shows": [
    "dannyrappleyea/interests/tv-shows.md"
   ],
@@ -199,6 +211,9 @@
   ],
   "manhattan": [
    "dannyrappleyea/cocktails/manhattan.md"
+  ],
+  "freezing_cocktails": [
+   "dannyrappleyea/cocktails/notes/freezing_cocktails.md"
   ],
   "inexpensive_liquor_options": [
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md"
@@ -639,14 +654,21 @@
   "dannyrappleyea/notes/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 74,
+   "size": 242,
    "html_url": "https://github.com/dannyrappleyea/notes/blob/main/README.md",
+   "repo": "dannyrappleyea/notes"
+  },
+  "dannyrappleyea/notes/products-apple-tv.md": {
+   "name": "products-apple-tv.md",
+   "path": "products-apple-tv.md",
+   "size": 520,
+   "html_url": "https://github.com/dannyrappleyea/notes/blob/main/products-apple-tv.md",
    "repo": "dannyrappleyea/notes"
   },
   "dannyrappleyea/interests/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 74,
+   "size": 253,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/README.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -800,7 +822,7 @@
   "dannyrappleyea/cocktails/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 877,
+   "size": 1121,
    "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/README.md",
    "repo": "dannyrappleyea/cocktails"
   },
@@ -865,6 +887,13 @@
    "path": "manhattan.md",
    "size": 898,
    "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/manhattan.md",
+   "repo": "dannyrappleyea/cocktails"
+  },
+  "dannyrappleyea/cocktails/notes/freezing_cocktails.md": {
+   "name": "freezing_cocktails.md",
+   "path": "notes/freezing_cocktails.md",
+   "size": 468,
+   "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/notes/freezing_cocktails.md",
    "repo": "dannyrappleyea/cocktails"
   },
   "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md": {
@@ -954,7 +983,7 @@
   "digitalreplica/hacking/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 133,
+   "size": 240,
    "html_url": "https://github.com/digitalreplica/hacking/blob/main/README.md",
    "repo": "digitalreplica/hacking"
   },
@@ -1262,7 +1291,7 @@
   "digitalreplica/technology/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 78,
+   "size": 246,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/README.md",
    "repo": "digitalreplica/technology"
   },
