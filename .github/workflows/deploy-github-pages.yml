@@ -71,7 +71,7 @@ jobs:
         if: ${{ env.REPO_LIST_EXISTS }}
         uses: digitalreplica/git-knowledge-json-action@main
         with:
-          repo-token: '${{ secrets.DANNY_WORKFLOWS }}'
+          repo-token: '${{ secrets.GITHUB_TOKEN }}'
           repo-list-path: ${{ env.REPO_LIST_PATH }}
           knowledge-json-path: ${{ env.KNOWLEDGE_JSON_PATH }}
       
