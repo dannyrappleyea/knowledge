@@ -11,6 +11,8 @@
    "dannyrappleyea/interests/cocktails.md",
    "dannyrappleyea/interests/coffee.md",
    "dannyrappleyea/interests/cogition.md",
+   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
+   "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
    "dannyrappleyea/interests/games-civilization_6.md",
    "dannyrappleyea/interests/games-factorio.md",
    "dannyrappleyea/interests/games-xcom_2.md",
@@ -81,6 +83,8 @@
    "dannyrappleyea/interests/cocktails.md",
    "dannyrappleyea/interests/coffee.md",
    "dannyrappleyea/interests/cogition.md",
+   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
+   "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
    "dannyrappleyea/interests/games-civilization_6.md",
    "dannyrappleyea/interests/games-factorio.md",
    "dannyrappleyea/interests/games-xcom_2.md",
@@ -133,6 +137,16 @@
   ],
   "cogition": [
    "dannyrappleyea/interests/cogition.md"
+  ],
+  "cooking": [
+   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
+   "dannyrappleyea/interests/cooking-rough_puff_pastry.md"
+  ],
+  "breakfast_tarts": [
+   "dannyrappleyea/interests/cooking-breakfast_tarts.md"
+  ],
+  "rough_puff_pastry": [
+   "dannyrappleyea/interests/cooking-rough_puff_pastry.md"
   ],
   "games": [
    "dannyrappleyea/interests/games-civilization_6.md",
@@ -710,7 +724,7 @@
   "dannyrappleyea/interests/coffee.md": {
    "name": "coffee.md",
    "path": "coffee.md",
-   "size": 7459,
+   "size": 7764,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/coffee.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -719,6 +733,20 @@
    "path": "cogition.md",
    "size": 299,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cogition.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/cooking-breakfast_tarts.md": {
+   "name": "cooking-breakfast_tarts.md",
+   "path": "cooking-breakfast_tarts.md",
+   "size": 309,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cooking-breakfast_tarts.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/cooking-rough_puff_pastry.md": {
+   "name": "cooking-rough_puff_pastry.md",
+   "path": "cooking-rough_puff_pastry.md",
+   "size": 171,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cooking-rough_puff_pastry.md",
    "repo": "dannyrappleyea/interests"
   },
   "dannyrappleyea/interests/games-civilization_6.md": {
