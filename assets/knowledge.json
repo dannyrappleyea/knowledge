@@ -307,6 +307,7 @@
    "digitalreplica/technology/bash.md",
    "digitalreplica/technology/cucumber.md",
    "digitalreplica/technology/curl.md",
+   "digitalreplica/technology/docker.md",
    "digitalreplica/technology/firefox.md",
    "digitalreplica/technology/git.md",
    "digitalreplica/technology/github.md",
@@ -584,6 +585,7 @@
    "digitalreplica/technology/bash.md",
    "digitalreplica/technology/cucumber.md",
    "digitalreplica/technology/curl.md",
+   "digitalreplica/technology/docker.md",
    "digitalreplica/technology/firefox.md",
    "digitalreplica/technology/git.md",
    "digitalreplica/technology/github.md",
@@ -617,6 +619,9 @@
   ],
   "curl": [
    "digitalreplica/technology/curl.md"
+  ],
+  "docker": [
+   "digitalreplica/technology/docker.md"
   ],
   "github": [
    "digitalreplica/technology/github.md"
@@ -1377,6 +1382,13 @@
    "path": "curl.md",
    "size": 353,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/curl.md",
+   "repo": "digitalreplica/technology"
+  },
+  "digitalreplica/technology/docker.md": {
+   "name": "docker.md",
+   "path": "docker.md",
+   "size": 81,
+   "html_url": "https://github.com/digitalreplica/technology/blob/main/docker.md",
    "repo": "digitalreplica/technology"
   },
   "digitalreplica/technology/firefox.md": {
