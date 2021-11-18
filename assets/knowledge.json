@@ -256,6 +256,7 @@
    "digitalreplica/git-knowledge/musings.md",
    "digitalreplica/hacking/README.md",
    "digitalreplica/hacking/angular.md",
+   "digitalreplica/hacking/aws-ecr.md",
    "digitalreplica/hacking/aws-iam_assume_role.md",
    "digitalreplica/hacking/aws-s3.md",
    "digitalreplica/hacking/aws-sns.md",
@@ -265,6 +266,7 @@
    "digitalreplica/hacking/browsers.md",
    "digitalreplica/hacking/dns-recon.md",
    "digitalreplica/hacking/dns-spoofing.md",
+   "digitalreplica/hacking/docker.md",
    "digitalreplica/hacking/howto-fake_email.md",
    "digitalreplica/hacking/howto-local_web_server.md",
    "digitalreplica/hacking/kali.md",
@@ -362,6 +364,7 @@
   "hacking": [
    "digitalreplica/hacking/README.md",
    "digitalreplica/hacking/angular.md",
+   "digitalreplica/hacking/aws-ecr.md",
    "digitalreplica/hacking/aws-iam_assume_role.md",
    "digitalreplica/hacking/aws-s3.md",
    "digitalreplica/hacking/aws-sns.md",
@@ -371,6 +374,7 @@
    "digitalreplica/hacking/browsers.md",
    "digitalreplica/hacking/dns-recon.md",
    "digitalreplica/hacking/dns-spoofing.md",
+   "digitalreplica/hacking/docker.md",
    "digitalreplica/hacking/howto-fake_email.md",
    "digitalreplica/hacking/howto-local_web_server.md",
    "digitalreplica/hacking/kali.md",
@@ -409,12 +413,16 @@
    "digitalreplica/technology/angular.md"
   ],
   "aws": [
+   "digitalreplica/hacking/aws-ecr.md",
    "digitalreplica/hacking/aws-iam_assume_role.md",
    "digitalreplica/hacking/aws-s3.md",
    "digitalreplica/hacking/aws-sns.md",
    "digitalreplica/hacking/aws-tokens.md",
    "digitalreplica/hacking/aws.md",
    "digitalreplica/technology/aws.md"
+  ],
+  "ecr": [
+   "digitalreplica/hacking/aws-ecr.md"
   ],
   "iam_assume_role": [
    "digitalreplica/hacking/aws-iam_assume_role.md"
@@ -444,6 +452,10 @@
   ],
   "spoofing": [
    "digitalreplica/hacking/dns-spoofing.md"
+  ],
+  "docker": [
+   "digitalreplica/hacking/docker.md",
+   "digitalreplica/technology/docker.md"
   ],
   "howto": [
    "digitalreplica/hacking/howto-fake_email.md",
@@ -619,9 +631,6 @@
   ],
   "curl": [
    "digitalreplica/technology/curl.md"
-  ],
-  "docker": [
-   "digitalreplica/technology/docker.md"
   ],
   "github": [
    "digitalreplica/technology/github.md"
@@ -834,7 +843,7 @@
   "dannyrappleyea/interests/tv-shows.md": {
    "name": "tv-shows.md",
    "path": "tv-shows.md",
-   "size": 197,
+   "size": 416,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/tv-shows.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -1027,6 +1036,13 @@
    "html_url": "https://github.com/digitalreplica/hacking/blob/main/angular.md",
    "repo": "digitalreplica/hacking"
   },
+  "digitalreplica/hacking/aws-ecr.md": {
+   "name": "aws-ecr.md",
+   "path": "aws-ecr.md",
+   "size": 2626,
+   "html_url": "https://github.com/digitalreplica/hacking/blob/main/aws-ecr.md",
+   "repo": "digitalreplica/hacking"
+  },
   "digitalreplica/hacking/aws-iam_assume_role.md": {
    "name": "aws-iam_assume_role.md",
    "path": "aws-iam_assume_role.md",
@@ -1088,6 +1104,13 @@
    "path": "dns-spoofing.md",
    "size": 434,
    "html_url": "https://github.com/digitalreplica/hacking/blob/main/dns-spoofing.md",
+   "repo": "digitalreplica/hacking"
+  },
+  "digitalreplica/hacking/docker.md": {
+   "name": "docker.md",
+   "path": "docker.md",
+   "size": 1282,
+   "html_url": "https://github.com/digitalreplica/hacking/blob/main/docker.md",
    "repo": "digitalreplica/hacking"
   },
   "digitalreplica/hacking/howto-fake_email.md": {
@@ -1366,7 +1389,7 @@
   "digitalreplica/technology/bash.md": {
    "name": "bash.md",
    "path": "bash.md",
-   "size": 655,
+   "size": 816,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/bash.md",
    "repo": "digitalreplica/technology"
   },
@@ -1471,7 +1494,7 @@
   "digitalreplica/technology/python.md": {
    "name": "python.md",
    "path": "python.md",
-   "size": 141,
+   "size": 289,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/python.md",
    "repo": "digitalreplica/technology"
   },
