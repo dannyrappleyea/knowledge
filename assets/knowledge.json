@@ -13,6 +13,8 @@
    "dannyrappleyea/interests/cogition.md",
    "dannyrappleyea/interests/cooking-breakfast_tarts.md",
    "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
+   "dannyrappleyea/interests/copyright.md",
+   "dannyrappleyea/interests/driving.md",
    "dannyrappleyea/interests/games-civilization_6.md",
    "dannyrappleyea/interests/games-factorio.md",
    "dannyrappleyea/interests/games-xcom_2.md",
@@ -85,6 +87,8 @@
    "dannyrappleyea/interests/cogition.md",
    "dannyrappleyea/interests/cooking-breakfast_tarts.md",
    "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
+   "dannyrappleyea/interests/copyright.md",
+   "dannyrappleyea/interests/driving.md",
    "dannyrappleyea/interests/games-civilization_6.md",
    "dannyrappleyea/interests/games-factorio.md",
    "dannyrappleyea/interests/games-xcom_2.md",
@@ -147,6 +151,12 @@
   ],
   "rough_puff_pastry": [
    "dannyrappleyea/interests/cooking-rough_puff_pastry.md"
+  ],
+  "copyright": [
+   "dannyrappleyea/interests/copyright.md"
+  ],
+  "driving": [
+   "dannyrappleyea/interests/driving.md"
   ],
   "games": [
    "dannyrappleyea/interests/games-civilization_6.md",
@@ -761,6 +771,20 @@
    "path": "cooking-rough_puff_pastry.md",
    "size": 171,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cooking-rough_puff_pastry.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/copyright.md": {
+   "name": "copyright.md",
+   "path": "copyright.md",
+   "size": 290,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/copyright.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/driving.md": {
+   "name": "driving.md",
+   "path": "driving.md",
+   "size": 443,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/driving.md",
    "repo": "dannyrappleyea/interests"
   },
   "dannyrappleyea/interests/games-civilization_6.md": {
