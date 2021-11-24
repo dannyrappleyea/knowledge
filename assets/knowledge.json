@@ -45,7 +45,9 @@
    "dannyrappleyea/cocktails/palmetto.md",
    "dannyrappleyea/cocktails/peanut_butter_cup.md",
    "dannyrappleyea/cocktails/tokyo_daiquiri.md",
-   "dannyrappleyea/cocktails/white_russian.md"
+   "dannyrappleyea/cocktails/white_russian.md",
+   "dannyrappleyea/recipes/README.md",
+   "dannyrappleyea/recipes/amaretti_cookies.md"
   ],
   "notes": [
    "dannyrappleyea/notes/README.md",
@@ -60,6 +62,7 @@
    "dannyrappleyea/notes/README.md",
    "dannyrappleyea/interests/README.md",
    "dannyrappleyea/cocktails/README.md",
+   "dannyrappleyea/recipes/README.md",
    "digitalreplica/git-notes/README.md",
    "digitalreplica/git-knowledge/README.md",
    "digitalreplica/hacking/README.md",
@@ -256,6 +259,13 @@
   ],
   "white_russian": [
    "dannyrappleyea/cocktails/white_russian.md"
+  ],
+  "recipes": [
+   "dannyrappleyea/recipes/README.md",
+   "dannyrappleyea/recipes/amaretti_cookies.md"
+  ],
+  "amaretti_cookies": [
+   "dannyrappleyea/recipes/amaretti_cookies.md"
   ],
   "digitalreplica": [
    "digitalreplica/git-notes/README.md",
@@ -1003,6 +1013,20 @@
    "size": 551,
    "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/white_russian.md",
    "repo": "dannyrappleyea/cocktails"
+  },
+  "dannyrappleyea/recipes/README.md": {
+   "name": "README.md",
+   "path": "README.md",
+   "size": 74,
+   "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/README.md",
+   "repo": "dannyrappleyea/recipes"
+  },
+  "dannyrappleyea/recipes/amaretti_cookies.md": {
+   "name": "amaretti_cookies.md",
+   "path": "amaretti_cookies.md",
+   "size": 1247,
+   "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/amaretti_cookies.md",
+   "repo": "dannyrappleyea/recipes"
   },
   "digitalreplica/git-notes/README.md": {
    "name": "README.md",
