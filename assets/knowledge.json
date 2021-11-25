@@ -11,8 +11,6 @@
    "dannyrappleyea/interests/cocktails.md",
    "dannyrappleyea/interests/coffee.md",
    "dannyrappleyea/interests/cogition.md",
-   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
-   "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
    "dannyrappleyea/interests/copyright.md",
    "dannyrappleyea/interests/driving.md",
    "dannyrappleyea/interests/games-civilization_6.md",
@@ -47,7 +45,9 @@
    "dannyrappleyea/cocktails/tokyo_daiquiri.md",
    "dannyrappleyea/cocktails/white_russian.md",
    "dannyrappleyea/recipes/README.md",
-   "dannyrappleyea/recipes/amaretti_cookies.md"
+   "dannyrappleyea/recipes/amaretti_cookies.md",
+   "dannyrappleyea/recipes/breakfast_tarts.md",
+   "dannyrappleyea/recipes/rough_puff_pastry.md"
   ],
   "notes": [
    "dannyrappleyea/notes/README.md",
@@ -88,8 +88,6 @@
    "dannyrappleyea/interests/cocktails.md",
    "dannyrappleyea/interests/coffee.md",
    "dannyrappleyea/interests/cogition.md",
-   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
-   "dannyrappleyea/interests/cooking-rough_puff_pastry.md",
    "dannyrappleyea/interests/copyright.md",
    "dannyrappleyea/interests/driving.md",
    "dannyrappleyea/interests/games-civilization_6.md",
@@ -144,16 +142,6 @@
   ],
   "cogition": [
    "dannyrappleyea/interests/cogition.md"
-  ],
-  "cooking": [
-   "dannyrappleyea/interests/cooking-breakfast_tarts.md",
-   "dannyrappleyea/interests/cooking-rough_puff_pastry.md"
-  ],
-  "breakfast_tarts": [
-   "dannyrappleyea/interests/cooking-breakfast_tarts.md"
-  ],
-  "rough_puff_pastry": [
-   "dannyrappleyea/interests/cooking-rough_puff_pastry.md"
   ],
   "copyright": [
    "dannyrappleyea/interests/copyright.md"
@@ -262,10 +250,18 @@
   ],
   "recipes": [
    "dannyrappleyea/recipes/README.md",
-   "dannyrappleyea/recipes/amaretti_cookies.md"
+   "dannyrappleyea/recipes/amaretti_cookies.md",
+   "dannyrappleyea/recipes/breakfast_tarts.md",
+   "dannyrappleyea/recipes/rough_puff_pastry.md"
   ],
   "amaretti_cookies": [
    "dannyrappleyea/recipes/amaretti_cookies.md"
+  ],
+  "breakfast_tarts": [
+   "dannyrappleyea/recipes/breakfast_tarts.md"
+  ],
+  "rough_puff_pastry": [
+   "dannyrappleyea/recipes/rough_puff_pastry.md"
   ],
   "digitalreplica": [
    "digitalreplica/git-notes/README.md",
@@ -769,20 +765,6 @@
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cogition.md",
    "repo": "dannyrappleyea/interests"
   },
-  "dannyrappleyea/interests/cooking-breakfast_tarts.md": {
-   "name": "cooking-breakfast_tarts.md",
-   "path": "cooking-breakfast_tarts.md",
-   "size": 309,
-   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cooking-breakfast_tarts.md",
-   "repo": "dannyrappleyea/interests"
-  },
-  "dannyrappleyea/interests/cooking-rough_puff_pastry.md": {
-   "name": "cooking-rough_puff_pastry.md",
-   "path": "cooking-rough_puff_pastry.md",
-   "size": 171,
-   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/cooking-rough_puff_pastry.md",
-   "repo": "dannyrappleyea/interests"
-  },
   "dannyrappleyea/interests/copyright.md": {
    "name": "copyright.md",
    "path": "copyright.md",
@@ -1017,7 +999,7 @@
   "dannyrappleyea/recipes/README.md": {
    "name": "README.md",
    "path": "README.md",
-   "size": 74,
+   "size": 82,
    "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/README.md",
    "repo": "dannyrappleyea/recipes"
   },
@@ -1026,6 +1008,20 @@
    "path": "amaretti_cookies.md",
    "size": 1247,
    "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/amaretti_cookies.md",
+   "repo": "dannyrappleyea/recipes"
+  },
+  "dannyrappleyea/recipes/breakfast_tarts.md": {
+   "name": "breakfast_tarts.md",
+   "path": "breakfast_tarts.md",
+   "size": 1105,
+   "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/breakfast_tarts.md",
+   "repo": "dannyrappleyea/recipes"
+  },
+  "dannyrappleyea/recipes/rough_puff_pastry.md": {
+   "name": "rough_puff_pastry.md",
+   "path": "rough_puff_pastry.md",
+   "size": 425,
+   "html_url": "https://github.com/dannyrappleyea/recipes/blob/main/rough_puff_pastry.md",
    "repo": "dannyrappleyea/recipes"
   },
   "digitalreplica/git-notes/README.md": {
