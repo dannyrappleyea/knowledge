@@ -2,6 +2,7 @@
  "tags": {
   "dannyrappleyea": [
    "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md",
    "dannyrappleyea/interests/README.md",
    "dannyrappleyea/interests/aerial_silks.md",
@@ -51,6 +52,7 @@
   ],
   "notes": [
    "dannyrappleyea/notes/README.md",
+   "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md",
    "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
@@ -70,10 +72,15 @@
    "digitalreplica/technology/README.md"
   ],
   "products": [
+   "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md"
   ],
   "apple": [
+   "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md"
+  ],
+  "iphone": [
+   "dannyrappleyea/notes/products-apple-iphone.md"
   ],
   "tv": [
    "dannyrappleyea/notes/products-apple-tv.md",
@@ -702,6 +709,13 @@
    "html_url": "https://github.com/dannyrappleyea/notes/blob/main/README.md",
    "repo": "dannyrappleyea/notes"
   },
+  "dannyrappleyea/notes/products-apple-iphone.md": {
+   "name": "products-apple-iphone.md",
+   "path": "products-apple-iphone.md",
+   "size": 340,
+   "html_url": "https://github.com/dannyrappleyea/notes/blob/main/products-apple-iphone.md",
+   "repo": "dannyrappleyea/notes"
+  },
   "dannyrappleyea/notes/products-apple-tv.md": {
    "name": "products-apple-tv.md",
    "path": "products-apple-tv.md",
@@ -740,7 +754,7 @@
   "dannyrappleyea/interests/books.md": {
    "name": "books.md",
    "path": "books.md",
-   "size": 641,
+   "size": 818,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/books.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -1510,7 +1524,7 @@
   "digitalreplica/technology/macos.md": {
    "name": "macos.md",
    "path": "macos.md",
-   "size": 3915,
+   "size": 4074,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/macos.md",
    "repo": "digitalreplica/technology"
   },
