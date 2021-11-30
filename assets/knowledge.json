@@ -40,6 +40,7 @@
    "dannyrappleyea/cocktails/manhattan.md",
    "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
+   "dannyrappleyea/cocktails/notes/liquor.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "dannyrappleyea/cocktails/palmetto.md",
    "dannyrappleyea/cocktails/peanut_butter_cup.md",
@@ -56,6 +57,7 @@
    "dannyrappleyea/notes/products-apple-tv.md",
    "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
+   "dannyrappleyea/cocktails/notes/liquor.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "digitalreplica/git-notes/README.md",
    "digitalreplica/git-notes/advanced-topics.md"
@@ -138,6 +140,7 @@
    "dannyrappleyea/cocktails/manhattan.md",
    "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
+   "dannyrappleyea/cocktails/notes/liquor.md",
    "dannyrappleyea/cocktails/notes/sour_cocktails.md",
    "dannyrappleyea/cocktails/palmetto.md",
    "dannyrappleyea/cocktails/peanut_butter_cup.md",
@@ -239,6 +242,9 @@
   ],
   "inexpensive_liquor_options": [
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md"
+  ],
+  "liquor": [
+   "dannyrappleyea/cocktails/notes/liquor.md"
   ],
   "sour_cocktails": [
    "dannyrappleyea/cocktails/notes/sour_cocktails.md"
@@ -973,6 +979,13 @@
    "path": "notes/inexpensive_liquor_options.md",
    "size": 842,
    "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/notes/inexpensive_liquor_options.md",
+   "repo": "dannyrappleyea/cocktails"
+  },
+  "dannyrappleyea/cocktails/notes/liquor.md": {
+   "name": "liquor.md",
+   "path": "notes/liquor.md",
+   "size": 268,
+   "html_url": "https://github.com/dannyrappleyea/cocktails/blob/main/notes/liquor.md",
    "repo": "dannyrappleyea/cocktails"
   },
   "dannyrappleyea/cocktails/notes/sour_cocktails.md": {
