@@ -4,6 +4,7 @@
    "dannyrappleyea/notes/README.md",
    "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md",
+   "dannyrappleyea/notes/products-venmo.md",
    "dannyrappleyea/interests/README.md",
    "dannyrappleyea/interests/aerial_silks.md",
    "dannyrappleyea/interests/anatomy.md",
@@ -55,6 +56,7 @@
    "dannyrappleyea/notes/README.md",
    "dannyrappleyea/notes/products-apple-iphone.md",
    "dannyrappleyea/notes/products-apple-tv.md",
+   "dannyrappleyea/notes/products-venmo.md",
    "dannyrappleyea/cocktails/notes/freezing_cocktails.md",
    "dannyrappleyea/cocktails/notes/inexpensive_liquor_options.md",
    "dannyrappleyea/cocktails/notes/liquor.md",
@@ -75,7 +77,8 @@
   ],
   "products": [
    "dannyrappleyea/notes/products-apple-iphone.md",
-   "dannyrappleyea/notes/products-apple-tv.md"
+   "dannyrappleyea/notes/products-apple-tv.md",
+   "dannyrappleyea/notes/products-venmo.md"
   ],
   "apple": [
    "dannyrappleyea/notes/products-apple-iphone.md",
@@ -87,6 +90,9 @@
   "tv": [
    "dannyrappleyea/notes/products-apple-tv.md",
    "dannyrappleyea/interests/tv-shows.md"
+  ],
+  "venmo": [
+   "dannyrappleyea/notes/products-venmo.md"
   ],
   "interests": [
    "dannyrappleyea/interests/README.md",
@@ -729,6 +735,13 @@
    "html_url": "https://github.com/dannyrappleyea/notes/blob/main/products-apple-tv.md",
    "repo": "dannyrappleyea/notes"
   },
+  "dannyrappleyea/notes/products-venmo.md": {
+   "name": "products-venmo.md",
+   "path": "products-venmo.md",
+   "size": 1153,
+   "html_url": "https://github.com/dannyrappleyea/notes/blob/main/products-venmo.md",
+   "repo": "dannyrappleyea/notes"
+  },
   "dannyrappleyea/interests/README.md": {
    "name": "README.md",
    "path": "README.md",
@@ -760,7 +773,7 @@
   "dannyrappleyea/interests/books.md": {
    "name": "books.md",
    "path": "books.md",
-   "size": 818,
+   "size": 1034,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/books.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -809,7 +822,7 @@
   "dannyrappleyea/interests/games-factorio.md": {
    "name": "games-factorio.md",
    "path": "games-factorio.md",
-   "size": 5065,
+   "size": 5147,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/games-factorio.md",
    "repo": "dannyrappleyea/interests"
   },
@@ -1537,7 +1550,7 @@
   "digitalreplica/technology/macos.md": {
    "name": "macos.md",
    "path": "macos.md",
-   "size": 4074,
+   "size": 4149,
    "html_url": "https://github.com/digitalreplica/technology/blob/main/macos.md",
    "repo": "digitalreplica/technology"
   },
