@@ -22,6 +22,7 @@
    "dannyrappleyea/interests/lucid-dream.md",
    "dannyrappleyea/interests/meditation.md",
    "dannyrappleyea/interests/olympics.md",
+   "dannyrappleyea/interests/real_estate.md",
    "dannyrappleyea/interests/solar.md",
    "dannyrappleyea/interests/sudoku.md",
    "dannyrappleyea/interests/taichi.md",
@@ -112,6 +113,7 @@
    "dannyrappleyea/interests/lucid-dream.md",
    "dannyrappleyea/interests/meditation.md",
    "dannyrappleyea/interests/olympics.md",
+   "dannyrappleyea/interests/real_estate.md",
    "dannyrappleyea/interests/solar.md",
    "dannyrappleyea/interests/sudoku.md",
    "dannyrappleyea/interests/taichi.md",
@@ -193,6 +195,9 @@
   ],
   "olympics": [
    "dannyrappleyea/interests/olympics.md"
+  ],
+  "real_estate": [
+   "dannyrappleyea/interests/real_estate.md"
   ],
   "solar": [
    "dannyrappleyea/interests/solar.md"
@@ -859,6 +864,13 @@
    "path": "olympics.md",
    "size": 441,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/olympics.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/real_estate.md": {
+   "name": "real_estate.md",
+   "path": "real_estate.md",
+   "size": 717,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/real_estate.md",
    "repo": "dannyrappleyea/interests"
   },
   "dannyrappleyea/interests/solar.md": {
