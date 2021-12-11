@@ -28,6 +28,7 @@
    "dannyrappleyea/interests/taichi.md",
    "dannyrappleyea/interests/tea.md",
    "dannyrappleyea/interests/tv-shows.md",
+   "dannyrappleyea/interests/wealth.md",
    "dannyrappleyea/interests/yoga-pranayama.md",
    "dannyrappleyea/interests/yoga.md",
    "dannyrappleyea/cocktails/README.md",
@@ -119,6 +120,7 @@
    "dannyrappleyea/interests/taichi.md",
    "dannyrappleyea/interests/tea.md",
    "dannyrappleyea/interests/tv-shows.md",
+   "dannyrappleyea/interests/wealth.md",
    "dannyrappleyea/interests/yoga-pranayama.md",
    "dannyrappleyea/interests/yoga.md"
   ],
@@ -213,6 +215,9 @@
   ],
   "shows": [
    "dannyrappleyea/interests/tv-shows.md"
+  ],
+  "wealth": [
+   "dannyrappleyea/interests/wealth.md"
   ],
   "yoga": [
    "dannyrappleyea/interests/yoga-pranayama.md",
@@ -906,6 +911,13 @@
    "path": "tv-shows.md",
    "size": 447,
    "html_url": "https://github.com/dannyrappleyea/interests/blob/main/tv-shows.md",
+   "repo": "dannyrappleyea/interests"
+  },
+  "dannyrappleyea/interests/wealth.md": {
+   "name": "wealth.md",
+   "path": "wealth.md",
+   "size": 1053,
+   "html_url": "https://github.com/dannyrappleyea/interests/blob/main/wealth.md",
    "repo": "dannyrappleyea/interests"
   },
   "dannyrappleyea/interests/yoga-pranayama.md": {
